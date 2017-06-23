@@ -1,0 +1,23 @@
+.data {
+  text-align: center;
+}
+
+h1, h2 {
+  font-family: San-Serif, Monospace;
+}
+
+h1 {
+  color: Blue;
+}
+
+h2 {
+  color: Green;
+}
+
+.button {
+  margin: 10px;
+}
+
+.weatherIcon {
+  margin: 10px;
+}
