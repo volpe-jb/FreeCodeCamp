@@ -1,0 +1,31 @@
+.thin-silver-border {
+  border-color: silver;
+  border-width: 10px;
+  border-style: solid;
+  border-radius: 10px;
+}
+
+.quote {
+  font-size: 18px;
+}
+.silver-background {
+  background-color: silver;
+}
+.center {
+  margin: auto;
+  width: 80%
+}
+body {
+  font-family:Revalia, Arial;
+  font-size: 14px;
+}
+
+h3 {
+  font-size: 56px;
+  border-width: 10px;
+  padding: 15px;
+}
+
+p {
+  font-size: 14px; 
+}
