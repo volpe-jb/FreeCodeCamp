@@ -1,0 +1,44 @@
+.profile-image {
+    border-color: #4f0996;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+    display: inline-block;
+    vertical-align: middle;
+  }
+
+.header-bar {
+  padding: 20px;
+}
+
+.title {
+  display: inline-block;
+  font-size: 100px;
+  margin: 0px 0px 0px 40px;
+  vertical-align: middle;
+}
+
+.nav {
+  
+}
+.github-linkedin {
+  text-align: right;
+  margin: 0px 230px 0px 10px;
+}
+.row {
+  padding: 40px;
+}
+
+.picture {
+  margin: 10px;
+}
+
+.project-details {
+  text-align: left;
+  float: right;
+  margin: 35px 130px 0px 0px;  
+}
+
+body {
+  background-color: #e0e0e0;
+}
